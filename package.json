@@ -1,0 +1,27 @@
+{
+  "name": "pixi.js-keyboard",
+  "version": "1.1.0",
+  "description": "pixi.js-keyboard is a WORKING (2021) plugin for Pixi.js v5 or higher to manage the keyboard events easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-ridgway/pixi.js-keyboard.git"
+  },
+  "keywords": [
+    "pixi.js",
+    "pixi",
+    "keyboard"
+  ],
+  "author": "c-ridgway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-ridgway/pixi.js-keyboard/issues"
+  },
+  "homepage": "https://github.com/c-ridgway/pixi.js-keyboard#readme",
+  "dependencies": {
+    "nom-events": "^1.0.3"
+  }
+}
