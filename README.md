@@ -1,10 +1,10 @@
-pixi.js-keyboard
+pixi.js-keyboard (2021 Pixi.js v5)
 ======================
 
-pixi.js-keyboard is a WORKING (2021) plugin for Pixi.js v5 or higher to manage the keyboard events easily.
+Handle keyboard events elegantly and simple.
 
-Demo: http://99.111.66.165/pixijs/
-Download: http://99.111.66.165/pixijs/demo.zip (browserify)
+> Demo: http://99.111.66.165/pixijs/
+> Download: http://99.111.66.165/pixijs/demo.zip (browserify)
 
 ## Installation
 ```
