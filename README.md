@@ -13,7 +13,7 @@ npm install --save pixi.js-keyboard pixi.js-mouse
 ```
 
 ### Reference
-All keycodes such as 'ArrowLeft': https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
+Keycodes: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
 
 ## API
 ### Keyboard
