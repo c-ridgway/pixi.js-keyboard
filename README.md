@@ -13,7 +13,7 @@ npm install --save pixi.js-keyboard pixi.js-mouse
 ```
 
 ### Reference
-Keycodes: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
+Keycodes: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code/code_values
 
 ## API
 ### Keyboard
