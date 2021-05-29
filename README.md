@@ -3,9 +3,9 @@ pixi.js-keyboard (2021 Pixi.js v5)
 
 Handle keyboard events elegantly and simple.
 
-Demo: http://99.111.66.165/pixijs/
+Demo: http://134.122.95.172/pixijs/
 
-Download: http://99.111.66.165/pixijs/demo.zip (browserify)
+Download: http://134.122.95.172/pixijs/demo.zip (browserify)
 
 ## Installation
 ```
@@ -204,4 +204,4 @@ Build bundle.js: `browserify index.js -o bundle.js`
 
 ### Or download the example
 
-Download: http://99.111.66.165/pixijs/demo.zip
+Download: http://134.122.95.172/pixijs/demo.zip

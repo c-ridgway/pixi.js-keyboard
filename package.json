@@ -1,6 +1,6 @@
 {
   "name": "pixi.js-keyboard",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Handle keyboard events elegantly and simple.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "pixi",
     "keyboard"
   ],
-  "author": "c-ridgway",
+  "author": "-nom-",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/c-ridgway/pixi.js-keyboard/issues"
